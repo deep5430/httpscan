@@ -1,0 +1,50 @@
+
+[!] Possible HTTP Credentials!
+From: 10.0.2.15 -> 44.228.249.3
+  q: 0.9
+  q: 0.8
+  q: 0.5
+  u: 0
+  uname: test
+  pass: test
+----------------------------------------
+
+[!] Possible HTTP Credentials!
+From: 10.0.2.15 -> 44.228.249.3
+  q: 0.9
+  q: 0.8
+  q: 0.5
+  login: test%2Ftest
+  u: 0
+  urname: Vickram
+  ucc: 12131244
+  uemail: admin%40admin.es
+  uphone: 4453546546
+  uaddress: informacion
+  update: update
+----------------------------------------
+
+[!] Possible HTTP Credentials!
+From: 10.0.2.15 -> 44.228.249.3
+  q: 0.9
+  q: 0.8
+  q: 0.5
+  u: 0
+  uname: test
+  pass: test
+--------------------------------------------------
+
+[!] Possible HTTP Credentials!
+From: 10.0.2.15 -> 44.228.249.3
+  q: 0.9
+  q: 0.8
+  q: 0.5
+  login: test%2Ftest
+  u: 0
+  urname: %3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E
+  ucc: 12131244
+  uemail: admin%40admin.es
+  uphone: 4453546546
+  uaddress: informacion
+  update: update
+--------------------------------------------------
